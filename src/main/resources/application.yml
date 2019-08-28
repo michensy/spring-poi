@@ -1,0 +1,7 @@
+server:
+  port: 8812
+
+logging:
+  path: /app/data/logs/
+  level:
+    default: trace
